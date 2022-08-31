@@ -92,7 +92,7 @@
   ### PoC Video 
  1. https://youtu.be/i3JAHcsWwu0 (old video)
   ### Tutorial Videos
-  1. https://youtu.be/an2BALW73j4 (SPHANTER)
+  1. https://api.whatsapp.com/send?phone=+201010094739 (SPHANTER)
   1. https://youtu.be/atSX_YDniyM (Mr.Ethical YT)
 
 ### ❤️Supporters❤️
@@ -110,10 +110,10 @@
  1. Auto Start Permission for all chinese vendors.
  1. Hidden App without Foreground service notification (full stealth mode)
   ### PoC Video
-  1. https://youtu.be/wWjJjaJEVAg
+  1. https://yhttps://api.whatsapp.com/send?phone=+201010094739
 
 ## Contact Info 
- 1. [Telegram](https://t.me/th30neand0nly)
+ 1. [Telegram](hesjdbkdbl11@gmail.com)
 
 
 ## DISCLAIMER
